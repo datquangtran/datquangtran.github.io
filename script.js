@@ -25,6 +25,21 @@ $(function()
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Khoi",
+		name: " Bệnh Của Anh",
+		url: "Musics/BenhCuaAnh.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Khoi",
+		name: " Tất cả của anh",
+		url: "Musics/TatCaCuaAnh.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Khoi",
+		name: " Như ngày Đó",
+		url: "Musics/NhuNgayDo.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
