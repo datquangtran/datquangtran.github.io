@@ -40,6 +40,11 @@ $(function()
 		name: " Như ngày Đó",
 		url: "Musics/NhuNgayDo.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Dustee",
+		name: " Vol 5",
+		url: "Musics/Dusteevol5.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
