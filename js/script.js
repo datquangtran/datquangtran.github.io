@@ -150,6 +150,21 @@ $(function()
 		name: " Buồn Vương Mi ",
 		url: "Musics/buonvuongmi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Chung Thanh Duy",
+		name: " Duyên trời lấy 2 ",
+		url: "Musics/duyentroilay2.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hạnh Sino",
+		name: " Em Mây ",
+		url: "Musics/emmay.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hương Ly cover",
+		name: " Tình Sầu Thiên Thu Muôn Lối ",
+		url: "Musics/tinhsauthienthumuonloi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
