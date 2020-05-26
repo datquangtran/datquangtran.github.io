@@ -111,9 +111,44 @@ $(function()
 		url: "Musics/ViBietDauAnhBuon-Khoi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Binz",
+		name: " OK ",
+		url: "Musics/ok.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Binz",
+		name: " SoFar ",
+		url: "Musics/sofar.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Lil Nas X",
+		name: " Old Town Road ",
+		url: "Musics/oldtownroad.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "NightCore",
+		name: " Monster ",
+		url: "Musics/monster.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Huỳnh Tú ft Khói ft Magazine",
+		name: " Duyên ",
+		url: "Musics/duyen.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Huỳnh Tú ft Magazine",
+		name: " Đường một chiều ",
+		url: "Musics/duongmotchieu.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Cover",
-		name: " Thương Thì Thương Thế Thôi ",
-		url: "Musics/ThuongThiThuongTheThoi.mp3",
+		name: " Mang chủng ",
+		url: "Musics/mangchung.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "SG Prider (Feat. Twinkly Tus and Nguyễn Hồng Giang)",
+		name: " Buồn Vương Mi ",
+		url: "Musics/buonvuongmi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
